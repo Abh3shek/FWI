@@ -19,7 +19,6 @@ instance/
 # Machine Learning
 model/
 *.h5
-*.pkl
 *.pth
 *.pb
 *.onnx
